@@ -22,11 +22,56 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 | 🧠 **Langages de programmation**     | Python, SQL, DAX, Markdown, VBA, HTML, CSS, JavaScript, JSON, XML                        |
 | 📊 **Data Visualisation**            | Power BI                                                                                 |
 | 🔄 **Traitement & Intégration**      | SSIS, Pentaho                                                                            |
-| 🔬 **Analyse de Données**            | Pandas, NLP (Natural Language Processing), TextBlob                                      |
+| 🔬 **Analyse de Données**            | Pandas, NLP (Natural Language Processing), TextBlob, matplotlib                          |
 | ☁️ **Cloud & Notebooks**             | Google Colab, AWS Cloud                                                                  |
 | 🛠️ **Outils de développement**       | Git, Spyder, Visual Studio Code                                                          |
 
 <br>
+
+### ✨ Compétences Douces ✨
+
+- 💡 **Force de proposition** : Esprit d’initiative et recherche constante d’amélioration
+- 🤝 **Travail en équipe** : Collaboration fluide dans des environnements pluridisciplinaires
+- 🗣️ **Communication** : Clarté à l’écrit et à l’oral, même pour les sujets techniques
+- 🎯 **Recueil des besoins** : Écoute active et capacité à formaliser des solutions adaptées
+- 🧠 **Veille technologique** : Curiosité et suivi régulier des innovations data
+- 🌍 **Anglais technique** : Niveau intermédiaire (B1-B2), opérationnel pour documentation et échanges
+
+<br>
+
+### ✨ Projets vedettes ✨  
+🚀 Voici quelques projets marquants que j’ai menés, illustrant mon expertise en Data Engineering et Business Intelligence
+
+---
+
+#### 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile  
+📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
+🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI  
+🔍 Démarche :  
+- Génération de données simulées via Python  
+- Stockage en base SQL, traitement des données  
+- Dashboards interactifs sur Power BI  
+
+💡 Résultat : Mise en place d’un pipeline BI complet illustrant des cas réels d’analyse e-commerce
+
+ Lien du projet : https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python
+
+<!--
+**Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--
 
 ### ✨ Compétences Douces ✨
 
@@ -47,25 +92,4 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 🌍 **Compétence linguistique en anglais**  
 - Niveau intermédiaire (B1-B2), suffisant pour lire de la documentation technique, échanger lors de réunions ou rédiger des contenus simples.
-
-<br>
-
-### ✨ Projets vedettes ✨
-
-
-🚀 *Voici quelques projets marquants que j’ai menés, illustrant mon expertise en Data Engineering et Business Intelligence* 
-...
-<!--
-**Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!-->
