@@ -1,5 +1,11 @@
-## Hi there 👋
+## Bonjour et bienvenue sur mon profil gitHub 👋 
 
+### ✨ A propos de moi ✨
+...
+### ✨ Skills Technique ✨
+...
+### ✨ Projets Phares ✨
+...
 <!--
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
