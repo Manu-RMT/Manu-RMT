@@ -19,7 +19,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 | **Catégorie**                        | **Outils & Technologies**                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| 🧠 **Langages de programmation**     | Python, SQL, DAX, Markdown, VBA, HTML, CSS, JavaScript, JSON, XML                        |
+| 🧠 **Langages de programmation**     | Python, SQL, DAX, Markdown, VBA, HTML, CSS, JavaScript, JSON, XML, WEB API               |
 | 📊 **Data Visualisation**            | Power BI                                                                                 |
 | 🔄 **Traitement & Intégration**      | SSIS, Pentaho                                                                            |
 | 🔬 **Analyse de Données**            | Pandas, NLP (Natural Language Processing), TextBlob, matplotlib                          |
