@@ -52,9 +52,19 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - Stockage en base SQL, traitement des données  
 - Dashboards interactifs sur Power BI  
 
-💡 Résultat : Mise en place d’un pipeline BI complet illustrant des cas réels d’analyse e-commerce
+##### 📊 Résultats
+- Mise en place d’un **pipeline BI complet** illustrant des cas réels d’analyse e-commerce
+- Visualisation des **ventes par modèle, région et période**
+- Analyse des **retours clients** à partir de scores de sentiment
+- Création d’indicateurs clés : volume de ventes, taux de satisfaction, retours négatifs/positifs
 
- Lien du projet : https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python
+##### 📁 Liens du projet
+- 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1bSuQ5AiLBMvkWCI8tDSfjkgD5rtCqo1t?usp=sharing) pour la génération et le traitement des données
+- 🔗 [Repository GitHub](https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python) 
+
+
+ <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/77c0af58-8c89-4e3b-beaa-19ef66412934" />
+
 
 <!--
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
