@@ -46,7 +46,9 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 #### 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile  
 📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
-🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI  
+
+🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI 
+
 🔍 Démarche :  
 - Génération de données simulées via Python  
 - Stockage en base SQL, traitement des données  
