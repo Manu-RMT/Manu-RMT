@@ -65,6 +65,31 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
  <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/77c0af58-8c89-4e3b-beaa-19ef66412934" />
 
+---
+
+#### 🛒 Hypermarché – BI appliquée à la grande distribution
+
+📌 Objectif : Suivre les performances commerciales globales à partir de données consolidées
+
+🧰 Technologies : Pentaho (PDI), PostgreSQL / SQL Server, Power BI
+
+🔍 Démarche :
+- Extraction des données sources au format CSV (ventes, produits, commandes)
+- Intégration et transformation des données avec Pentaho Data Integration
+- Stockage en base de données relationnelle
+- Dashboards interactifs réalisés dans Power BI
+
+##### 📊 Résultats
+- Mise en place d’un **pipeline BI complet** pour l’analyse de données commerciales réelles
+- Visualisation des **ventes par catégorie, période et point de vente**
+- Calcul du **profit net mensuel** et suivi du **chiffre d’affaires global**
+- Analyse des **remises appliquées** et des délais de livraison
+- Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
+
+##### 📁 Liens du projet
+- 🔗 ...
+- 🔗 ... 
+- 🔗 ...
 
 <!--
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
