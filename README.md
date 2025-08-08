@@ -23,7 +23,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 | 📊 **Data Visualisation**            | Power BI                                                                                 |
 | 🔄 **Traitement & Intégration**      | SSIS, Pentaho                                                                            |
 | 🔬 **Analyse de Données**            | Pandas, NLP (Natural Language Processing), TextBlob, matplotlib                          |
-| ☁️ **Cloud & Notebooks**             | Google Colab, AWS Cloud                                                                  |
+| ☁️ **Cloud & Notebooks**             | Google Colab, Azure                                                                 |
 | 🛠️ **Outils de développement**       | Git, Spyder, Visual Studio Code                                                          |
 
 <br>
@@ -89,8 +89,8 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
 
 ##### 📁 Liens du projet
-- 🔗 ...
-- 🔗 ... 
+- 🔗 [Notebook Google Colab]([https://colab.research.google.com/drive/1bSuQ5AiLBMvkWCI8tDSfjkgD5rtCqo1t?usp=sharing](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr#scrollTo=mLGSkT0vYIxU)
+- 🔗 [Repository GitHub]([https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python](https://github.com/Manu-RMT/Hypermarche-Power-BI) 
 - 🔗 ...
 
 <!--
