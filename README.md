@@ -73,12 +73,12 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 📌 Objectif : Suivre les performances commerciales globales à partir de données consolidées
 
-🧰 Technologies : Pentaho (PDI), PostgreSQL / SQL Server, Power BI
+🧰 Technologies : Pentaho (PDI), Azure, Power BI
 
 🔍 Démarche :
-- Extraction des données sources au format CSV (ventes, produits, commandes)
+- Extraction des données sources au format CSV (ventes, produits, factures)
 - Intégration et transformation des données avec Pentaho Data Integration
-- Stockage en base de données relationnelle
+- Stockage en base de données relationnelle sur Azure
 - Dashboards interactifs réalisés dans Power BI
 
 ##### 📊 Résultats
@@ -91,7 +91,9 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 ##### 📁 Liens du projet
 - 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr#scrollTo=mLGSkT0vYIxU)
 - 🔗 [Repository GitHub](https://github.com/Manu-RMT/Hypermarche-Power-BI) 
-- 🔗 ...
+
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" />
+
 
 <!--
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
