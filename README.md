@@ -98,11 +98,9 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 #### **👥 Projet RH – Analyse des données du personnel avec Power BI**
 
-##### **📌 Objectif**  
-Centraliser et visualiser les données RH pour faciliter le pilotage stratégique
+##### **📌 Objectif** : Centraliser et visualiser les données RH pour faciliter le pilotage stratégique
 
-##### **🧰 Technologies utilisées**  
-Power BI, Power Query
+##### **🧰 Technologies utilisées** : Power BI, Power Query
 
 ##### **🔍 Démarche**  
 - Import des fichiers Excel contenant les données RH (contrats, salaires, absences)  
