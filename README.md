@@ -45,11 +45,11 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 ---
 
 #### 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile  
-📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
+##### 📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
 
-🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI 
+##### 🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI 
 
-🔍 Démarche :  
+##### 🔍 Démarche :  
 - Génération de données simulées via Python  
 - Stockage en base SQL, traitement des données  
 - Dashboards interactifs sur Power BI  
@@ -71,11 +71,11 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 #### 🛒 Hypermarché – BI appliquée à la grande distribution
 
-📌 Objectif : Suivre les performances commerciales globales à partir de données consolidées
+##### 📌 Objectif : Suivre les performances commerciales globales à partir de données consolidées
 
-🧰 Technologies : Pentaho (PDI), Azure, Power BI
+##### 🧰 Technologies : Pentaho (PDI), Azure, Power BI
 
-🔍 Démarche :
+##### 🔍 Démarche :
 - Extraction des données sources au format CSV (ventes, produits, factures)
 - Intégration et transformation des données avec Pentaho Data Integration
 - Stockage en base de données relationnelle sur Azure
@@ -94,6 +94,32 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" />
 
+---
+
+#### **👥 Projet RH – Analyse des données du personnel avec Power BI**
+
+##### **📌 Objectif**  
+Centraliser et visualiser les données RH pour faciliter le pilotage stratégique
+
+##### **🧰 Technologies utilisées**  
+Power BI, Power Query
+
+##### **🔍 Démarche**  
+- Import des fichiers Excel contenant les données RH (contrats, salaires, absences)  
+- Nettoyage, fusion et transformation des données via Power Query  
+- Création d’un modèle de données optimisé dans Power BI  
+- Conception de rapports interactifs pour explorer les indicateurs RH
+
+##### **📊 Résultats obtenus**  
+- Mise en place d’un **dashboard RH intuitif** et facilement actualisable  
+- Visualisation des **effectifs par département, type de contrat et statut**  
+- Suivi des **absences, congés et heures supplémentaires**  
+- Analyse de la **masse salariale** et des **coûts RH mensuels**  
+- Intégration d’indicateurs clés : **turnover, ancienneté moyenne, taux d’absentéisme**
+
+🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/RH_Power_BI)
+
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/e29a8456-775d-4e2d-b5a3-a88a490508f6" />
 
 <!--
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
