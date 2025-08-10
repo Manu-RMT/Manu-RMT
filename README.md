@@ -7,7 +7,7 @@ Manuel,
 🎯 *Ingénieur Data actuellement en CDI chez Bial-X, missionné pour Clariane (ex-Korian)*.  
 J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de données inter-applicatifs, en veillant à leur **fiabilité**, **exploitabilité** et **disponibilité**.  
 
-📡 Mon objectif : garantir la **cohérence des échanges de données** et contribuer au **bon fonctionnement du système d'information**.
+📡 Ma mission : garantir la fiabilité et la fluidité des échanges de données, tout en collaborant avec les équipes métiers pour leur offrir des informations pertinentes, exploitables et génératrices de gains de temps.
 
 📊 **Grâce à mon parcours en Business Intelligence**, je suis également capable de concevoir des **tableaux de bord Power BI** adaptés aux besoins métiers, afin de faciliter l’analyse et l’optimisation des données pour la prise de décision.
 
