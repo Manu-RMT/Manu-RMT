@@ -11,6 +11,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 📊 **Grâce à mon parcours en Business Intelligence**, je suis également capable de concevoir des **tableaux de bord Power BI** adaptés aux besoins métiers, afin de faciliter l’analyse et l’optimisation des données pour la prise de décision.
 
+
 <br>
 
 ### ✨ Compétences Techniques ✨
@@ -119,6 +120,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/e29a8456-775d-4e2d-b5a3-a88a490508f6" />
 
+Pour plus d'information à mon sujet, <a href="https://manu-rmt.infinityfreeapp.com/?i=1" target="_blank">**Visitez mon site web**</a>
 <!--
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
