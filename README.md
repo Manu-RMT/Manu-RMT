@@ -90,7 +90,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
 
 ##### 📁 Liens du projet
-- 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr#scrollTo=mLGSkT0vYIxU)
+- 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr?usp=sharing)
 - 🔗 [Repository GitHub](https://github.com/Manu-RMT/Hypermarche-Power-BI) 
 
 <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" />
