@@ -45,6 +45,8 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ---
 
+### 🧠 Projet BI 
+
 #### 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile  
 ##### 📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
 
@@ -119,6 +121,26 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/RH_Power_BI)
 
 <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/e29a8456-775d-4e2d-b5a3-a88a490508f6" />
+
+---
+
+### 🧠 Projet Data Science – Analyse exploratoire et visualisation
+
+#### 📌 Objectif : Explorer des jeux de données réels à travers des visualisations statistiques et des indicateurs clés
+
+#### 🧰 Technologies : Python (pandas, matplotlib, seaborn), Google Colab
+
+#### 🔍 Démarche :
+- Nettoyage et structuration des données
+- Visualisation des tendances, corrélations et distributions
+- Calcul d’indicateurs pertinents pour l’interprétation métier
+- Approche pédagogique et reproductible via notebooks partagés
+
+#### 📁 Liens des notebooks :
+- ✈️ [Analyse exploratoire des vols de compagnies aériennes](https://colab.research.google.com/drive/1c2ouK_kRfRYx82d4DSkNym3WIsoE-q8M?usp=sharing) : étude des retards, des destinations et des performances opérationnelles à partir d’un dataset multi-compagnies
+- 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](https://colab.research.google.com/drive/19P6R4qRifVzecQ-yCRrEWfsYHwJ3iih_?usp=sharing) : visualisation des cours boursiers, comparaison des tendances et interprétation des évolutions sectorielles
+
+---
 
 
 <br>
