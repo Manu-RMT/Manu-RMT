@@ -2,15 +2,37 @@
 
 ### ✨ A propos de moi ✨
 
-Manuel,
 
-🎯 *Ingénieur Data actuellement en CDI chez Bial-X, missionné pour Clariane (ex-Korian)*.  
-J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de données inter-applicatifs, en veillant à leur **fiabilité**, **exploitabilité** et **disponibilité**.  
+## 👨‍💼 Manuel – Ingénieur Data & Business Intelligence
+
+Ingénieur Data actuellement en CDI chez **Bial-X**, missionné pour **Clariane (ex-Korian)**, j’assure la **maintenance en conditions opérationnelles (MCO)** des flux de données entre systèmes critiques, en garantissant leur **robustesse, traçabilité et disponibilité continue**.
 
 📡 Ma mission : garantir la fiabilité et la fluidité des échanges de données, tout en collaborant avec les équipes métiers pour leur offrir des informations pertinentes, exploitables et génératrices de gains de temps.
 
 📊 **Grâce à mon parcours en Business Intelligence**, je suis également capable de concevoir des **tableaux de bord Power BI** adaptés aux besoins métiers, afin de faciliter l’analyse et l’optimisation des données pour la prise de décision.
 
+🎯 **Objectif** : Rejoindre un environnement industriel exigeant pour y déployer des solutions data robustes et utiles aux équipes métiers et terrain
+
+---
+
+<!-- Ceci est un commentaire caché en Markdown 
+Manuel,
+
+🎯 *Ingénieur Data actuellement en CDI chez Bial-X, missionné pour Clariane (ex-Korian)*.  
+J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de données inter-applicatifs, en veillant à leur **fiabilité**, **exploitabilité** et **disponibilité**.  
+
+
+### 🏭 Mission principale
+- Supervision des **flux inter-applicatifs** dans un environnement exigeant
+- Collaboration avec les équipes métiers pour fournir des **indicateurs fiables et exploitables**
+- Contribution directe à l’**optimisation des processus** et à la **performance opérationnelle**
+
+### 📊 Business Intelligence appliquée à l’industrie
+- Conception de **tableaux de bord Power BI** pour le suivi de la **production**, de la **qualité**, de la **maintenance** ou de la **logistique**
+- Visualisation d’indicateurs clés (KPI) pour une **prise de décision rapide et éclairée**
+- Valorisation des données terrain pour améliorer la **réactivité et l’efficience opérationnelle**
+
+-->
 
 <br>
 
