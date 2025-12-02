@@ -55,7 +55,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
   <li>
    <a href="#-projets-vedettes-" style="text-decoration:none; color:#333;">✨ Projets vedettes ✨</a>
    <ul style="list-style:disc; margin-left:20px; margin-top:6px;">
-     <li><a href="#projet-bi" style="text-decoration:none; color:#444;">Projet BI</a></li>
+     <li><a href="#-projet-bi" style="text-decoration:none; color:#444;">Projet BI</a></li>
      <li><a href="#-projet-data-science--analyse-exploratoire-et-visualisation" style="text-decoration:none; color:#444;">Projet Data Science – Analyse exploratoire et visualisation</a></li> 
    </ul>
    </li>  
