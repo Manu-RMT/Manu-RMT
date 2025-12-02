@@ -34,6 +34,34 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 -->
 
+<div style="
+   background: #f5f5f5;
+   padding: 20px 25px;
+   border-radius: 12px;
+   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+   border: 1px solid #e0e0e0;
+   font-family: 'Segoe UI', Roboto, sans-serif;
+">
+<h2 style="margin-top:0; text-align:center;">📘 Sommaire</h2>
+<ul style="list-style:none; padding-left:0; margin:0; font-size:1.1rem; line-height:1.8;">
+  <li><a href="#-compétences-techniques-" style="text-decoration:none; color:#333;">✨ Compétences Techniques ✨</a></li>
+  <li><a href="#-compétences-douces-" style="text-decoration:none; color:#333;">✨ Compétences Douces ✨</a></li>
+  <li>
+   <a href="#-projets-vedettes-" style="text-decoration:none; color:#333;">✨ Projets vedettes ✨</a>
+   <ul style="list-style:disc; margin-left:20px; margin-top:6px;">
+     <li><a href="#projet-bi" style="text-decoration:none; color:#444;">Projet BI</a></li>
+   </ul>
+   </li>
+</ul>
+</div>
+
+
+- [Compétence technique](#-compétences-techniques-)
+- [section 2](#-compétences-douces-)
+- [section 2](#-projets-vedettes-)
+  - [section 2.1](#-projet-bi)
+  - [section 2.2](#-projet-data-science--analyse-exploratoire-et-visualisation)
+
 <br>
 
 ### ✨ Compétences Techniques ✨
