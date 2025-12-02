@@ -32,6 +32,12 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - Visualisation d’indicateurs clés (KPI) pour une **prise de décision rapide et éclairée**
 - Valorisation des données terrain pour améliorer la **réactivité et l’efficience opérationnelle**
 
+- [Compétence technique](#-compétences-techniques-)
+- [section 2](#-compétences-douces-)
+- [section 2](#-projets-vedettes-)
+  - [section 2.1](#-projet-bi)
+  - [section 2.2](#-projet-data-science--analyse-exploratoire-et-visualisation)
+
 -->
 
 <div style="
@@ -50,17 +56,11 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
    <a href="#-projets-vedettes-" style="text-decoration:none; color:#333;">✨ Projets vedettes ✨</a>
    <ul style="list-style:disc; margin-left:20px; margin-top:6px;">
      <li><a href="#projet-bi" style="text-decoration:none; color:#444;">Projet BI</a></li>
+     <li><a href="#-projet-data-science--analyse-exploratoire-et-visualisation" style="text-decoration:none; color:#444;">Projet Data Science – Analyse exploratoire et visualisation</a></li> 
    </ul>
-   </li>
+   </li>  
 </ul>
 </div>
-
-
-- [Compétence technique](#-compétences-techniques-)
-- [section 2](#-compétences-douces-)
-- [section 2](#-projets-vedettes-)
-  - [section 2.1](#-projet-bi)
-  - [section 2.2](#-projet-data-science--analyse-exploratoire-et-visualisation)
 
 <br>
 
