@@ -39,7 +39,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
   - [section 2.2](#-projet-data-science--analyse-exploratoire-et-visualisation)
 
 -->
-
+<!--
 <div style="
    background: #f5f5f5;
    padding: 20px 25px;
@@ -61,6 +61,13 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
    </li>  
 </ul>
 </div>
+-->
+📘 **Sommaire**
+- [✨ Compétences Techniques ✨](#-compétences-techniques-)
+- [✨ Compétences Douces ✨](#-compétences-douces-)
+- [✨ Projets vedettes ✨](#-projets-vedettes-)
+ - [Projet BI](#-projet-bi)
+ - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science--analyse-exploratoire-et-visualisation)
 
 <br>
 
