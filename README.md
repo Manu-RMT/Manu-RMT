@@ -122,10 +122,10 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
     - Stockage en base SQL, traitement des données  
     - Dashboards interactifs sur Power BI  
 
-##### 📊 Résultats
-    - Mise en place d’un **pipeline BI complet** illustrant des cas réels d’analyse e-commerce
-    - Visualisation des **ventes par modèle, région et période**
-    - Analyse des **retours clients** à partir de scores de sentiment
+##### 📊 Résultats obtenus
+    - Mise en place d’un pipeline BI complet illustrant des cas réels d’analyse e-commerce
+    - Visualisation des ventes par modèle, région et période
+    - Analyse des retours clients à partir de scores de sentiment
     - Création d’indicateurs clés : volume de ventes, taux de satisfaction, retours négatifs/positifs
 
 ##### 📁 Liens du projet
@@ -149,11 +149,11 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
     - Stockage en base de données relationnelle sur Azure
     - Dashboards interactifs réalisés dans Power BI
 
-##### 📊 Résultats
-    - Mise en place d’un **pipeline BI complet** pour l’analyse de données commerciales réelles
-    - Visualisation des **ventes par catégorie, période et point de vente**
-    - Calcul du **profit net mensuel** et suivi du **chiffre d’affaires global**
-    - Analyse des **remises appliquées** et des délais de livraison
+##### 📊 Résultats obtenus
+    - Mise en place d’un pipeline BI complet pour l’analyse de données commerciales réelles
+    - Visualisation des ventes par catégorie, période et point de vente
+    - Calcul du profit net mensuel et suivi du chiffre d’affaires global
+    - Analyse des remises appliquées et des délais de livraison
     - Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
 
 ##### 📁 Liens du projet
@@ -177,11 +177,11 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
     - Conception de rapports interactifs pour explorer les indicateurs RH
 
 ##### **📊 Résultats obtenus**  
-    - Mise en place d’un **dashboard RH intuitif** et facilement actualisable  
-    - Visualisation des **effectifs par département, type de contrat et statut**  
-    - Suivi des **absences, congés et heures supplémentaires**  
-    - Analyse de la **masse salariale** et des **coûts RH mensuels**  
-    - Intégration d’indicateurs clés : **turnover, ancienneté moyenne, taux d’absentéisme**
+    - Mise en place d’un dashboard RH intuitif et facilement actualisable  
+    - Visualisation des effectifs par département, type de contrat et statut
+    - Suivi des absences, congés et heures supplémentaires
+    - Analyse de la masse salariale et des coûts RH mensuels 
+    - Intégration d’indicateurs clés : turnover, ancienneté moyenne, taux d’absentéisme
 
 🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/RH_Power_BI)
 
@@ -225,7 +225,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
     - Créer un tableau de bord analytique avec Databricks SQL
   
   ##### **📊 Résultats obtenus**  : 
-    - Mise en place d’un pipeline fiable et automatisé permettant de traiter l’ensemble des données sans intervention manuelle
+    - Mise en place d’un pipeline automatisé assurant le traitement complet des données sans intervention manuelle
     - Amélioration de la qualité et de la cohérence des données grâce à la structuration Bronze → Silver → Gold
     - Réduction du temps de traitement grâce à l’utilisation de Spark et Delta Lake
     - Mise à disposition d’un jeu de données final propre, enrichi et exploitable pour les analyses
