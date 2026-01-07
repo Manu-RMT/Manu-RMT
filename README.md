@@ -111,15 +111,15 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 ##### 🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI 
 
 ##### 🔍 Démarche :  
-- Génération de données simulées via Python  
-- Stockage en base SQL, traitement des données  
-- Dashboards interactifs sur Power BI  
+    - Génération de données simulées via Python  
+    - Stockage en base SQL, traitement des données  
+    - Dashboards interactifs sur Power BI  
 
 ##### 📊 Résultats
-- Mise en place d’un **pipeline BI complet** illustrant des cas réels d’analyse e-commerce
-- Visualisation des **ventes par modèle, région et période**
-- Analyse des **retours clients** à partir de scores de sentiment
-- Création d’indicateurs clés : volume de ventes, taux de satisfaction, retours négatifs/positifs
+    - Mise en place d’un **pipeline BI complet** illustrant des cas réels d’analyse e-commerce
+    - Visualisation des **ventes par modèle, région et période**
+    - Analyse des **retours clients** à partir de scores de sentiment
+    - Création d’indicateurs clés : volume de ventes, taux de satisfaction, retours négatifs/positifs
 
 ##### 📁 Liens du projet
 - 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1bSuQ5AiLBMvkWCI8tDSfjkgD5rtCqo1t?usp=sharing) pour la génération et le traitement des données
@@ -137,17 +137,17 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 ##### 🧰 Technologies : Pentaho (PDI), Azure, Power BI
 
 ##### 🔍 Démarche :
-- Extraction des données sources au format CSV (ventes, produits, factures)
-- Intégration et transformation des données avec Pentaho Data Integration
-- Stockage en base de données relationnelle sur Azure
-- Dashboards interactifs réalisés dans Power BI
+    - Extraction des données sources au format CSV (ventes, produits, factures)
+    - Intégration et transformation des données avec Pentaho Data Integration
+    - Stockage en base de données relationnelle sur Azure
+    - Dashboards interactifs réalisés dans Power BI
 
 ##### 📊 Résultats
-- Mise en place d’un **pipeline BI complet** pour l’analyse de données commerciales réelles
-- Visualisation des **ventes par catégorie, période et point de vente**
-- Calcul du **profit net mensuel** et suivi du **chiffre d’affaires global**
-- Analyse des **remises appliquées** et des délais de livraison
-- Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
+    - Mise en place d’un **pipeline BI complet** pour l’analyse de données commerciales réelles
+    - Visualisation des **ventes par catégorie, période et point de vente**
+    - Calcul du **profit net mensuel** et suivi du **chiffre d’affaires global**
+    - Analyse des **remises appliquées** et des délais de livraison
+    - Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
 
 ##### 📁 Liens du projet
 - 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr?usp=sharing)
@@ -164,17 +164,17 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 ##### **🧰 Technologies utilisées** : Power BI, Power Query
 
 ##### **🔍 Démarche**  
-- Import des fichiers Excel contenant les données RH (contrats, salaires, absences)  
-- Nettoyage, fusion et transformation des données via Power Query  
-- Création d’un modèle de données optimisé dans Power BI  
-- Conception de rapports interactifs pour explorer les indicateurs RH
+    - Import des fichiers Excel contenant les données RH (contrats, salaires, absences)  
+    - Nettoyage, fusion et transformation des données via Power Query  
+    - Création d’un modèle de données optimisé dans Power BI  
+    - Conception de rapports interactifs pour explorer les indicateurs RH
 
 ##### **📊 Résultats obtenus**  
-- Mise en place d’un **dashboard RH intuitif** et facilement actualisable  
-- Visualisation des **effectifs par département, type de contrat et statut**  
-- Suivi des **absences, congés et heures supplémentaires**  
-- Analyse de la **masse salariale** et des **coûts RH mensuels**  
-- Intégration d’indicateurs clés : **turnover, ancienneté moyenne, taux d’absentéisme**
+    - Mise en place d’un **dashboard RH intuitif** et facilement actualisable  
+    - Visualisation des **effectifs par département, type de contrat et statut**  
+    - Suivi des **absences, congés et heures supplémentaires**  
+    - Analyse de la **masse salariale** et des **coûts RH mensuels**  
+    - Intégration d’indicateurs clés : **turnover, ancienneté moyenne, taux d’absentéisme**
 
 🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/RH_Power_BI)
 
@@ -184,17 +184,17 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### 🧠 Projet Data Science – Analyse exploratoire et visualisation
 
-#### 📌 Objectif : Explorer des jeux de données réels à travers des visualisations statistiques et des indicateurs clés
+##### 📌 Objectif : Explorer des jeux de données réels à travers des visualisations statistiques et des indicateurs clés
 
-#### 🧰 Technologies : Python (pandas, matplotlib, seaborn), Google Colab
+##### 🧰 Technologies : Python (pandas, matplotlib, seaborn), Google Colab
 
-#### 🔍 Démarche :
-- Nettoyage et structuration des données
-- Visualisation des tendances, corrélations et distributions
-- Calcul d’indicateurs pertinents pour l’interprétation métier
-- Approche pédagogique et reproductible via notebooks partagés
+##### 🔍 Démarche :
+    - Nettoyage et structuration des données
+    - Visualisation des tendances, corrélations et distributions
+    - Calcul d’indicateurs pertinents pour l’interprétation métier
+    - Approche pédagogique et reproductible via notebooks partagés
 
-#### 📁 Liens des notebooks :
+##### 📁 Liens des notebooks :
 - ✈️ [Analyse exploratoire des vols de compagnies aériennes](https://colab.research.google.com/drive/1c2ouK_kRfRYx82d4DSkNym3WIsoE-q8M?usp=sharing) : étude des retards, des destinations et des performances opérationnelles à partir d’un dataset multi-compagnies
 - 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](https://colab.research.google.com/drive/19P6R4qRifVzecQ-yCRrEWfsYHwJ3iih_?usp=sharing) : visualisation des cours boursiers, comparaison des tendances et interprétation des évolutions sectorielles
 
@@ -202,23 +202,23 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### ⚙️ Projet Data Engineering & Analytics – Traitement et visualisation sur Databricks (Lakehouse)
 
-#### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
-
-#### 🧰 Technologies : Python, PySpark, SQL
-
-#### 🔍 Démarche :
-- Créer une architecture en médaillon (couches Bronze → Silver → Gold)
-- Construire un pipeline de données via des notebooks Databricks
-- Développer des fonctions réutilisables pour standardiser les transformations
-- Créer un tableau de bord analytique avec Databricks SQL
-
-##### **📊 Résultats obtenus**  : 
-- Mise en place d’un pipeline fiable et automatisé permettant de traiter l’ensemble des données sans intervention manuelle
-- Amélioration de la qualité et de la cohérence des données grâce à la structuration Bronze → Silver → Gold
-- Réduction du temps de traitement grâce à l’utilisation de Spark et Delta Lake
-- Mise à disposition d’un jeu de données final propre, enrichi et exploitable pour les analyses
-- Création d’un dashboard interactif permettant de visualiser les indicateurs clés (KPIs) et d’explorer les données
-- Facilitation de la prise de décision grâce à une vision claire et centralisée des informations
+  ##### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
+  
+  ##### 🧰 Technologies : Python, PySpark, SQL
+  
+  ##### 🔍 Démarche :
+    - Créer une architecture en médaillon (couches Bronze → Silver → Gold)
+    - Construire un pipeline de données via des notebooks Databricks
+    - Développer des fonctions réutilisables pour standardiser les transformations
+    - Créer un tableau de bord analytique avec Databricks SQL
+  
+  ##### **📊 Résultats obtenus**  : 
+    - Mise en place d’un pipeline fiable et automatisé permettant de traiter l’ensemble des données sans intervention manuelle
+    - Amélioration de la qualité et de la cohérence des données grâce à la structuration Bronze → Silver → Gold
+    - Réduction du temps de traitement grâce à l’utilisation de Spark et Delta Lake
+    - Mise à disposition d’un jeu de données final propre, enrichi et exploitable pour les analyses
+    - Création d’un dashboard interactif permettant de visualiser les indicateurs clés (KPIs) et d’explorer les données
+    - Facilitation de la prise de décision grâce à une vision claire et centralisée des informations
 
 ---
 
