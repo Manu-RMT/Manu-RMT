@@ -112,7 +112,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### 🧠 Projet BI 
 
-#### 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile  
+#### 🚗 1. ShopEasyCar – BI appliquée à l’e-commerce automobile  
 ##### 📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
 
 ##### 🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI 
@@ -137,7 +137,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ---
 
-#### 🛒 Hypermarché – BI appliquée à la grande distribution
+#### 🛒 2. Hypermarché – BI appliquée à la grande distribution
 
 ##### 📌 Objectif : Suivre les performances commerciales globales à partir de données consolidées
 
@@ -164,7 +164,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ---
 
-#### **👥 Projet RH – Analyse des données du personnel avec Power BI**
+####  👥 3. Projet RH – Analyse des données du personnel avec Power BI
 
 ##### **📌 Objectif** : Centraliser et visualiser les données RH pour faciliter le pilotage stratégique
 
@@ -192,8 +192,8 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 ### 🧠 Projet Data Science – Analyse exploratoire et visualisation
 
 #### Projets : 
-- ✈️ Analyse exploratoire des vols de compagnies aériennes
-- 📈 Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)  ** 
+- ✈️ 1. Analyse exploratoire des vols de compagnies aériennes
+- 📈 2. Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)  ** 
 
 ##### 📌 Objectif : Explorer des jeux de données réels à travers des visualisations statistiques et des indicateurs clés
 
@@ -213,7 +213,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### ⚙️ Projet Data Engineering & Analytics – Traitement et visualisation sur Databricks (Lakehouse)
 
-  #### ** 🎬 Projet TMDB Movie  ** 
+  ####  🎬 1. Projet TMDB Movie
   ##### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
   
   ##### 🧰 Technologies : Python, PySpark, SQL
