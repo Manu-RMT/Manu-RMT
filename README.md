@@ -68,7 +68,9 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - [✨ Projets vedettes ✨](#-projets-vedettes-)
  - [Projet BI](#-projet-bi)
  - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science--analyse-exploratoire-et-visualisation)
- - [Projet Data Platform – Databricks : Pipelines & Dashboards](#-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
+ - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
+
+
 
 <br>
 
@@ -202,6 +204,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### ⚙️ Projet Data Engineering & Analytics – Traitement et visualisation sur Databricks (Lakehouse)
 
+  #### ** Projet TMDB Movies ** 
   ##### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
   
   ##### 🧰 Technologies : Python, PySpark, SQL
@@ -219,6 +222,8 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
     - Mise à disposition d’un jeu de données final propre, enrichi et exploitable pour les analyses
     - Création d’un dashboard interactif permettant de visualiser les indicateurs clés (KPIs) et d’explorer les données
     - Facilitation de la prise de décision grâce à une vision claire et centralisée des informations
+
+  🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/databricks-movies-analytics)
 
 ---
 
