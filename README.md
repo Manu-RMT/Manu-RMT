@@ -68,7 +68,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - [✨ Projets vedettes ✨](#-projets-vedettes-)
  - [Projet BI](#-projet-bi)
  - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science--analyse-exploratoire-et-visualisation)
- - [Projet Data Platform – Databricks : Pipelines & Dashboards](#⚙️-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
+ - [Projet Data Platform – Databricks : Pipelines & Dashboards](#-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
 
 <br>
 
