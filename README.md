@@ -89,7 +89,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 | 📊 **Data Visualisation**            | Power BI                                                                                 |
 | 🔄 **Traitement & Intégration**      | SSIS, Pentaho                                                                            |
 | 🔬 **Analyse de Données**            | Pandas, NLP (Natural Language Processing), TextBlob, matplotlib                          |
-| ☁️ **Cloud & Notebooks**             | Google Colab, Azure                                                                 |
+| ☁️ **Cloud & Notebooks**             | Google Colab, Databricks                                                                  |
 | 🛠️ **Outils de développement**       | Git, Spyder, Visual Studio Code                                                          |
 
 <br>
