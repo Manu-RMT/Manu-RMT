@@ -66,10 +66,15 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - [✨ Compétences Techniques ✨](#-compétences-techniques-)
 - [✨ Compétences Douces ✨](#-compétences-douces-)
 - [✨ Projets vedettes ✨](#-projets-vedettes-)
- - [Projet BI](#-projet-bi)
- - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science--analyse-exploratoire-et-visualisation)
- - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
-
+  - [Projet BI](#-projet-bi)
+    - 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile
+    - 🛒 Hypermarché – BI appliquée à la grande distribution
+    - 👥 Projet RH – Analyse des données du personnel avec Power BI
+  - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science--analyse-exploratoire-et-visualisation)
+    - ✈️ Analyse exploratoire des vols de compagnies aériennes
+    - 📈 Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)
+  - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
+    - 🎬 Projet TMDB Movie 
 
 
 <br>
@@ -186,6 +191,10 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### 🧠 Projet Data Science – Analyse exploratoire et visualisation
 
+#### Projets : 
+- ✈️ Analyse exploratoire des vols de compagnies aériennes
+- 📈 Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)  ** 
+
 ##### 📌 Objectif : Explorer des jeux de données réels à travers des visualisations statistiques et des indicateurs clés
 
 ##### 🧰 Technologies : Python (pandas, matplotlib, seaborn), Google Colab
@@ -204,7 +213,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ### ⚙️ Projet Data Engineering & Analytics – Traitement et visualisation sur Databricks (Lakehouse)
 
-  #### ** Projet TMDB Movies ** 
+  #### ** 🎬 Projet TMDB Movie  ** 
   ##### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
   
   ##### 🧰 Technologies : Python, PySpark, SQL
