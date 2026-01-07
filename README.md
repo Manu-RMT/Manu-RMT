@@ -68,6 +68,7 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 - [✨ Projets vedettes ✨](#-projets-vedettes-)
  - [Projet BI](#-projet-bi)
  - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science--analyse-exploratoire-et-visualisation)
+ - [Projet Data Platform – Databricks : Pipelines & Dashboards](#⚙️-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
 
 <br>
 
@@ -199,12 +200,34 @@ J’assure la **maintenance en conditions opérationnelles (MCO)** des flux de d
 
 ---
 
+### ⚙️ Projet Data Engineering & Analytics – Traitement et visualisation sur Databricks (Lakehouse)
+
+#### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
+
+#### 🧰 Technologies : Python, PySpark, SQL
+
+#### 🔍 Démarche :
+- Créer une architecture en médaillon (couches Bronze → Silver → Gold)
+- Construire un pipeline de données via des notebooks Databricks
+- Développer des fonctions réutilisables pour standardiser les transformations
+- Créer un tableau de bord analytique avec Databricks SQL
+
+##### **📊 Résultats obtenus**  : 
+- Mise en place d’un pipeline fiable et automatisé permettant de traiter l’ensemble des données sans intervention manuelle
+- Amélioration de la qualité et de la cohérence des données grâce à la structuration Bronze → Silver → Gold
+- Réduction du temps de traitement grâce à l’utilisation de Spark et Delta Lake
+- Mise à disposition d’un jeu de données final propre, enrichi et exploitable pour les analyses
+- Création d’un dashboard interactif permettant de visualiser les indicateurs clés (KPIs) et d’explorer les données
+- Facilitation de la prise de décision grâce à une vision claire et centralisée des informations
+
+---
 
 <br>
 <br>
 
-Pour plus d'information,  <a href="https://manu-rmt.infinityfreeapp.com/?i=1" target="_blank">**Visitez mon site web**</a>
 <!--
+Pour plus d'information,  <a href="https://manu-rmt.infinityfreeapp.com/?i=1" target="_blank">**Visitez mon site web**</a>
+
 **Manu-RMT/Manu-RMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
