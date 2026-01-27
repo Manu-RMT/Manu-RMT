@@ -1,17 +1,26 @@
-## Bonjour et bienvenue sur mon profil gitHub 👋 
+ 
+<div align="center">
+<h1>👋 Bonjour et bienvenue sur mon profil GitHub  </h1>
+<h1>👨‍💼 Manuel RAMANITRA</h1>
+<p><b>Business Analyst / Ingénieur BI — Data & Décisionnel</b></p>
+<p><i>Transformer des sources complexes en leviers de décision stratégiques et opérationnels</i></p>
+</div>
+<p align="center">
+<a href="https://linkedin.com/in/Manuel-RAMANITRA"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:manu.rmt@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### ✨ A propos de moi ✨
+---
 
+Business Analyst / Ingénieur BI spécialisé dans la **conception de solutions décisionnelles de bout en bout**.  
+J’accompagne les métiers dans la **définition des KPI**, la **fiabilisation des flux de données** et la **mise à disposition d’outils de pilotage clairs, performants et pérennes**.
+Mon approche combine :
+> - compréhension des **enjeux business**
+> - rigueur **data & technique**
+> - focus sur l’**expérience utilisateur et l’adoption métier**
+---
 
-## 👨‍💼 Manuel – Ingénieur Data & Business Intelligence
-
-Ingénieur Data actuellement en CDI chez **Bial-X**, missionné pour **Clariane (ex-Korian)**, j’assure la **maintenance en conditions opérationnelles (MCO)** des flux de données entre systèmes critiques, en garantissant leur **robustesse, traçabilité et disponibilité continue**.
-
-📡 Ma mission : garantir la fiabilité et la fluidité des échanges de données, tout en collaborant avec les équipes métiers pour leur offrir des informations pertinentes, exploitables et génératrices de gains de temps.
-
-📊 **Grâce à mon parcours en Business Intelligence**, je suis également capable de concevoir des **tableaux de bord Power BI** adaptés aux besoins métiers, afin de faciliter l’analyse et l’optimisation des données pour la prise de décision.
-
-🎯 **Objectif** : Rejoindre un environnement industriel exigeant pour y déployer des solutions data robustes et utiles aux équipes métiers et terrain
+🎯 **Ma mission** : fournir aux métiers des données fiables, compréhensibles et réellement exploitables pour piloter leur activité.
 
 ---
 
@@ -29,37 +38,30 @@ Ingénieur Data actuellement en CDI chez **Bial-X**, missionné pour **Clariane 
   - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
     - 🎬 Projet TMDB Movie 
 
+---
+
+### 🛠️ Expertise & Stack Technique
+| **Catégorie** | **Outils & Technologies** |
+| :--- | :--- |
+| **🧠 Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Web](https://img.shields.io/badge/Web_Tech-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **📊 Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) ![Modeling](https://img.shields.io/badge/Modélisation-Star_Schema-orange?style=flat-square) |
+| **🔄 ETL & Intégration** | ![Pentaho](https://img.shields.io/badge/Pentaho-3E8E41?style=flat-square) ![SSIS](https://img.shields.io/badge/SSIS-5C2D91?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **🔬 Data Science & Analyse** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-TextBlob-blueviolet?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square) |
+| **☁️ Cloud & Environnements** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) |
+| **🛠️ Développement** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white) |
+---
+### 🧠 Compétences Douces (Soft Skills)
+* 💡 **Force de proposition & Amélioration continue** : Optimisation des flux ETL et standardisation des processus pour maximiser la performance opérationnelle.
+* 🎯 **Analyse stratégique & Résolution de problèmes** : Diagnostic rapide des incidents critiques et analyse d'impact pour apporter des solutions durables.
+* 🤝 **Pédagogie & Accompagnement** : Support technique aux métiers, animation de sessions de formation et rédaction de documentations rigoureuses.
+* 📏 **Rigueur & Organisation** : Structuration méticuleuse des tâches et suivi précis pour garantir une qualité de donnée optimale (Data Quality).
+* 📈 **Data Storytelling** : Capacité à vulgariser des analyses complexes et à documenter les KPIs pour faciliter la prise de décision.
+* 🌍 **Curiosité technique & Adaptabilité** : Veille active sur l'IA et le Cloud, avec une capacité de montée en compétence rapide sur de nouveaux outils.
 
 <br>
 
-### ✨ Compétences Techniques ✨
-
-🔍 Découvrez ci-dessous les outils et technologies que j’utilise fréquemment dans mes missions, illustrant mon savoir-faire en Data Engineering et Business Intelligence :
-
-| **Catégorie**                        | **Outils & Technologies**                                                                 |
-|-------------------------------------|------------------------------------------------------------------------------------------|
-| 🧠 **Langages de programmation**     | Python, SQL, DAX, Markdown, VBA, HTML, CSS, JavaScript, JSON, XML, WEB API               |
-| 📊 **Data Visualisation**            | Power BI                                                                                 |
-| 🔄 **Traitement & Intégration**      | SSIS, Pentaho                                                                            |
-| 🔬 **Analyse de Données**            | Pandas, NLP (Natural Language Processing), TextBlob, matplotlib                          |
-| ☁️ **Cloud & Notebooks**             | Google Colab, Databricks                                                                  |
-| 🛠️ **Outils de développement**       | Git, Spyder, Visual Studio Code                                                          |
-
-<br>
-
-### ✨ Compétences Douces ✨
-
-- 💡 **Force de proposition** : Esprit d’initiative et recherche constante d’amélioration
-- 🤝 **Travail en équipe** : Collaboration fluide dans des environnements pluridisciplinaires
-- 🗣️ **Communication** : Clarté à l’écrit et à l’oral, même pour les sujets techniques
-- 🎯 **Recueil des besoins** : Écoute active et capacité à formaliser des solutions adaptées
-- 🧠 **Veille technologique** : Curiosité et suivi régulier des innovations data
-- 🌍 **Anglais technique** : Niveau intermédiaire (B1-B2), opérationnel pour documentation et échanges
-
-<br>
-
-### ✨ Projets vedettes ✨  
-🚀 Voici quelques projets marquants que j’ai menés, illustrant mon expertise en Data Engineering et Business Intelligence
+## ✨ Projets Vedettes
+🚀 Voici une sélection de projets marquants illustrant mon expertise en **Data Engineering**, **Business Intelligence** et **Data Science**.
 
 ---
 
