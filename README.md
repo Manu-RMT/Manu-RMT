@@ -25,7 +25,7 @@ Mon approche combine :
 ---
 
 📘 **Sommaire**
-- [✨ Compétences Techniques ✨](#-expertise--stack-technique)
+- [✨ Expertise et Stack Technique ✨](#-expertise-et-stack-technique)
 - [✨ Compétences Douces ✨](#-competences-douces-soft-skills)
 - [✨ Projets vedettes ✨](#-projets-vedettes-)
   - [Projet BI](#-projet-bi)
@@ -40,7 +40,7 @@ Mon approche combine :
 
 ---
 
-### 🛠️ Expertise & Stack Technique
+### 🛠️ Expertise et Stack Technique
 | **Catégorie** | **Outils & Technologies** |
 | :--- | :--- |
 | **🧠 Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Web](https://img.shields.io/badge/Web_Tech-E34F26?style=flat-square&logo=html5&logoColor=white) |
