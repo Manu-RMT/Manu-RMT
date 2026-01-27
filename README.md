@@ -27,7 +27,7 @@ Mon approche combine :
 📘 **Sommaire**
 - [✨ Expertise et Stack Technique ✨](#%EF%B8%8F-expertise-et-stack-technique)
 - [✨ Compétences Douces (Soft Skills) ✨](#-compétences-douces-soft-skills)
-- [✨ Projets vedettes ✨](#-projets-vedettes-)
+- [✨ Projets vedettes ✨](#-projets-vedettes)
   - [Projet BI](#-projet-bi)
     - 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile
     - 🛒 Hypermarché – BI appliquée à la grande distribution
