@@ -6,7 +6,7 @@
 <p><i>Transformer des sources complexes en leviers de décision stratégiques et opérationnels</i></p>
 </div>
 <p align="center">
-<a href="https://linkedin.com/in/Manuel-RAMANITRA"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/manuel-ramanitra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:manu.rmt@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -25,8 +25,8 @@ Mon approche combine :
 ---
 
 📘 **Sommaire**
-- [✨ Compétences Techniques ✨](#-compétences-techniques-)
-- [✨ Compétences Douces ✨](#-compétences-douces-)
+- [✨ Compétences Techniques ✨](#-expertise--stack-technique)
+- [✨ Compétences Douces ✨](#-compétences-douces-soft-skills)
 - [✨ Projets vedettes ✨](#-projets-vedettes-)
   - [Projet BI](#-projet-bi)
     - 🚗 ShopEasyCar – BI appliquée à l’e-commerce automobile
