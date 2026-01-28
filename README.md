@@ -23,7 +23,7 @@ Mon approche combine :
 🎯 **Ma mission** : fournir aux métiers des données fiables, compréhensibles et réellement exploitables pour piloter leur activité.
 
 ---
-
+<!--
 📘 **Sommaire**
 - [✨ Expertise et Stack Technique ✨](#%EF%B8%8F-expertise-et-stack-technique)
 - [✨ Compétences Douces (Soft Skills) ✨](#-compétences-douces-soft-skills)
@@ -37,7 +37,23 @@ Mon approche combine :
     - 📈 Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)
   - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--analytics--traitement-et-visualisation-sur-databricks-lakehouse)
     - 🎬 Projet TMDB Movie 
+-->
 
+📘 **Sommaire**
+
+- [✨ Expertise et Stack Technique ✨](#✨-expertise-et-stack-technique)
+- [✨ Compétences Douces (Soft Skills) ✨](#-compétences-douces-soft-skills)
+- [✨ Projets Vedettes ✨](#✨-projets-vedettes)
+  - [Projet BI](#🧠-projet-bi)
+    - 🚗 [ShopEasyCar – BI appliquée à l’e-commerce automobile](#🚗-1-shopeasycar--bi-appliquée-à-l’e-commerce-automobile)
+    - 🛒 [Hypermarché – BI appliquée à la grande distribution](#🛒-2-hypermarché--bi-appliquée-à-la-grande-distribution)
+    - 👥 [Projet RH – Analyse des données du personnel](#👥-3-projet-rh--analyse-des-données-du-personnel)
+  - [Projet Data Science – Analyse exploratoire et visualisation](#🧠-projet-data-science)
+    - ✈️ [Analyse exploratoire des vols de compagnies aériennes](#✈️-analyse-exploratoire-des-vols-de-compagnies-aériennes)
+    - 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](#📈-analyse-des-actions-de-leaders-de-lia-openai-meta-google)
+  - [Projet Data Platform – Databricks : Pipelines & Dashboards](#⚙️-projet-data-engineering--databricks-lakehouse)
+    - 🎬 [Projet TMDB Movie](#🎬-1-projet-tmdb-movie)
+ 
 ---
 
 ### 🛠️ Expertise et Stack Technique
@@ -63,136 +79,170 @@ Mon approche combine :
 
 <br>
 
-## ✨ Projets Vedettes
-🚀 Voici une sélection de projets marquants illustrant mon expertise en **Data Engineering**, **Business Intelligence** et **Data Science**.
+---
+## ✨ Projets Vedettes – Méthode STAR
+
+🚀 Une sélection de projets illustrant mon expertise en **Data Engineering**, **Business Intelligence** et **Data Science**, présentés avec la méthodologie STAR.
 
 ---
 
-### 🧠 Projet BI 
+### 🧠 Projet BI
 
-#### 🚗 1. ShopEasyCar – BI appliquée à l’e-commerce automobile  
-##### 📌 Objectif : Suivre les ventes de véhicules et analyser les retours clients  
+#### 🚗 1. ShopEasyCar – BI appliquée à l’e-commerce automobile
 
-##### 🧰 Technologies : Python (pandas, pyodbc), SQL Server, Power BI 
+- **Situation** : Une entreprise e-commerce automobile voulait suivre ses ventes et analyser les retours clients pour améliorer la satisfaction.  
 
-##### 🔍 Démarche :  
-    - Génération de données simulées via Python  
-    - Stockage en base SQL, traitement des données  
-    - Dashboards interactifs sur Power BI  
+- **Tâche** : Créer un pipeline BI complet permettant de visualiser les ventes par modèle, région et période, et analyser les retours clients.  
 
-##### 📊 Résultats obtenus
-    - Mise en place d’un pipeline BI complet illustrant des cas réels d’analyse e-commerce
-    - Visualisation des ventes par modèle, région et période
-    - Analyse des retours clients à partir de scores de sentiment
-    - Création d’indicateurs clés : volume de ventes, taux de satisfaction, retours négatifs/positifs
+- **Action** :  
 
-##### 📁 Liens du projet
-- 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1bSuQ5AiLBMvkWCI8tDSfjkgD5rtCqo1t?usp=sharing) pour la génération et le traitement des données
-- 🔗 [Repository GitHub](https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python) 
+  - Génération de données simulées avec Python.  
 
+  - Stockage et traitement des données dans SQL Server.  
 
- <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/77c0af58-8c89-4e3b-beaa-19ef66412934" />
+  - Création de dashboards interactifs dans Power BI.  
+
+- **Résultat** :  
+
+  - Visualisation claire des ventes et des retours clients.  
+
+  - Analyse des scores de sentiment des retours.  
+
+  - Mise en place d’indicateurs clés : volume de ventes, taux de satisfaction, retours négatifs/positifs.  
+
+🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1bSuQ5AiLBMvkWCI8tDSfjkgD5rtCqo1t?usp=sharing) | 🔗 [GitHub](https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python)  
+
+<img width="650" height="400" src="https://github.com/user-attachments/assets/77c0af58-8c89-4e3b-beaa-19ef66412934" alt="Dashboard ShopEasyCar"/>
 
 ---
 
 #### 🛒 2. Hypermarché – BI appliquée à la grande distribution
 
-##### 📌 Objectif : Suivre les performances commerciales globales à partir de données consolidées
+- **Situation** : Une chaîne de grande distribution voulait suivre la performance commerciale globale à partir de données consolidées.  
 
-##### 🧰 Technologies : Pentaho (PDI), Azure, Power BI
+- **Tâche** : Développer un pipeline BI permettant de suivre ventes, profits et performances multi-sites.  
 
-##### 🔍 Démarche :
-    - Extraction des données sources au format CSV (ventes, produits, factures)
-    - Intégration et transformation des données avec Pentaho Data Integration
-    - Stockage en base de données relationnelle sur Azure
-    - Dashboards interactifs réalisés dans Power BI
+- **Action** :  
 
-##### 📊 Résultats obtenus
-    - Mise en place d’un pipeline BI complet pour l’analyse de données commerciales réelles
-    - Visualisation des ventes par catégorie, période et point de vente
-    - Calcul du profit net mensuel et suivi du chiffre d’affaires global
-    - Analyse des remises appliquées et des délais de livraison
-    - Création d’indicateurs clés : rentabilité, volume de ventes, performance multi-site
+  - Extraction des données CSV (ventes, produits, factures).  
 
-##### 📁 Liens du projet
-- 🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr?usp=sharing)
-- 🔗 [Repository GitHub](https://github.com/Manu-RMT/Hypermarche-Power-BI) 
+  - Intégration et transformation via Pentaho Data Integration.  
 
-<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" />
+  - Stockage sur Azure et création de dashboards Power BI interactifs.  
 
----
+- **Résultat** :  
 
-####  👥 3. Projet RH – Analyse des données du personnel avec Power BI
+  - Visualisation des ventes par catégorie, période et point de vente.  
 
-##### **📌 Objectif** : Centraliser et visualiser les données RH pour faciliter le pilotage stratégique
+  - Calcul du profit net et suivi du chiffre d’affaires global.  
 
-##### **🧰 Technologies utilisées** : Power BI, Power Query
+  - Analyse des remises, délais de livraison et performance multi-site.  
 
-##### **🔍 Démarche**  
-    - Import des fichiers Excel contenant les données RH (contrats, salaires, absences)  
-    - Nettoyage, fusion et transformation des données via Power Query  
-    - Création d’un modèle de données optimisé dans Power BI  
-    - Conception de rapports interactifs pour explorer les indicateurs RH
+  - Mise en place d’indicateurs clés : rentabilité, volume de ventes.  
 
-##### **📊 Résultats obtenus**  
-    - Mise en place d’un dashboard RH intuitif et facilement actualisable  
-    - Visualisation des effectifs par département, type de contrat et statut
-    - Suivi des absences, congés et heures supplémentaires
-    - Analyse de la masse salariale et des coûts RH mensuels 
-    - Intégration d’indicateurs clés : turnover, ancienneté moyenne, taux d’absentéisme
+🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1xDbF376zrv_H0em1C9bzuOFOIaKzXmGr?usp=sharing) | 🔗 [GitHub](https://github.com/Manu-RMT/Hypermarche-Power-BI)  
 
-🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/RH_Power_BI)
-
-<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/e29a8456-775d-4e2d-b5a3-a88a490508f6" />
+<img width="650" height="400" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" alt="Dashboard Hypermarché"/>
 
 ---
 
-### 🧠 Projet Data Science – Analyse exploratoire et visualisation
+#### 👥 3. Projet RH – Analyse des données du personnel
 
-#### Projets : 
-- ✈️ 1. Analyse exploratoire des vols de compagnies aériennes
-- 📈 2. Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)  ** 
+- **Situation** : Une entreprise voulait centraliser et analyser ses données RH pour améliorer le pilotage stratégique.  
 
-##### 📌 Objectif : Explorer des jeux de données réels à travers des visualisations statistiques et des indicateurs clés
+- **Tâche** : Créer un dashboard interactif pour suivre les effectifs, absences et coûts RH.  
 
-##### 🧰 Technologies : Python (pandas, matplotlib, seaborn), Google Colab
+- **Action** :  
 
-##### 🔍 Démarche :
-    - Nettoyage et structuration des données
-    - Visualisation des tendances, corrélations et distributions
-    - Calcul d’indicateurs pertinents pour l’interprétation métier
-    - Approche pédagogique et reproductible via notebooks partagés
+  - Import et nettoyage des fichiers Excel via Power Query.  
 
-##### 📁 Liens des notebooks :
-- ✈️ [Analyse exploratoire des vols de compagnies aériennes](https://colab.research.google.com/drive/1c2ouK_kRfRYx82d4DSkNym3WIsoE-q8M?usp=sharing) : étude des retards, des destinations et des performances opérationnelles à partir d’un dataset multi-compagnies
-- 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](https://colab.research.google.com/drive/19P6R4qRifVzecQ-yCRrEWfsYHwJ3iih_?usp=sharing) : visualisation des cours boursiers, comparaison des tendances et interprétation des évolutions sectorielles
+  - Création d’un modèle de données optimisé dans Power BI.  
 
----
+  - Conception de rapports interactifs et facilement actualisables.  
 
-### ⚙️ Projet Data Engineering & Analytics – Traitement et visualisation sur Databricks (Lakehouse)
+- **Résultat** :  
 
-  ####  🎬 1. Projet TMDB Movie
-  ##### 📌 Objectif : Créer un pipeline de données et un dashboards indiquant les KPI les plus importants 
-  
-  ##### 🧰 Technologies : Python, PySpark, SQL
-  
-  ##### 🔍 Démarche :
-    - Créer une architecture en médaillon (couches Bronze → Silver → Gold)
-    - Construire un pipeline de données via des notebooks Databricks
-    - Développer des fonctions réutilisables pour standardiser les transformations
-    - Créer un tableau de bord analytique avec Databricks SQL
-  
-  ##### **📊 Résultats obtenus**  : 
-    - Mise en place d’un pipeline automatisé assurant le traitement complet des données sans intervention manuelle
-    - Amélioration de la qualité et de la cohérence des données grâce à la structuration Bronze → Silver → Gold
-    - Réduction du temps de traitement grâce à l’utilisation de Spark et Delta Lake
-    - Mise à disposition d’un jeu de données final propre, enrichi et exploitable pour les analyses
-    - Création d’un dashboard interactif permettant de visualiser les indicateurs clés (KPIs) et d’explorer les données
-    - Facilitation de la prise de décision grâce à une vision claire et centralisée des informations
+  - Visualisation des effectifs par département, type de contrat et statut.  
 
-  🔗 [Accéder au repository GitHub](https://github.com/Manu-RMT/databricks-movies-analytics)
+  - Suivi des absences, congés et heures supplémentaires.  
+
+  - Analyse de la masse salariale et création d’indicateurs clés : turnover, ancienneté moyenne, taux d’absentéisme.  
+
+🔗 [GitHub](https://github.com/Manu-RMT/RH_Power_BI)  
+
+<img width="650" height="400" src="https://github.com/user-attachments/assets/e29a8456-775d-4e2d-b5a3-a88a490508f6" alt="Dashboard RH"/>
 
 ---
 
-<br>
+### 🧠 Projet Data Science
 
+#### ✈️ Analyse exploratoire des vols de compagnies aériennes
+
+- **Situation** : Les compagnies aériennes et les voyageurs souhaitaient comprendre les causes de retards et les performances opérationnelles.  
+
+- **Tâche** : Explorer les données des vols pour identifier tendances et corrélations.  
+
+- **Action** :  
+
+  - Nettoyage et structuration des données avec Python.  
+
+  - Visualisation des retards, destinations et performances via matplotlib et seaborn.  
+
+  - Calcul d’indicateurs clés pour interprétation métier.  
+
+- **Résultat** :  
+
+  - Notebook interactif permettant d’identifier les tendances et problèmes opérationnels.  
+
+  - Analyses pédagogiques facilement reproductibles.  
+
+🔗 [Notebook Google Colab](https://colab.research.google.com/drive/1c2ouK_kRfRYx82d4DSkNym3WIsoE-q8M?usp=sharing)  
+
+#### 📈 Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)
+
+- **Situation** : Suivi des performances boursières des entreprises leaders en IA.  
+
+- **Tâche** : Analyser et comparer les tendances de leurs actions.  
+
+- **Action** :  
+
+  - Récupération et nettoyage des données financières.  
+
+  - Visualisation des cours et comparaison des tendances sectorielles.  
+
+- **Résultat** :  
+
+  - Dashboard et analyses montrant fluctuations et performances relatives.  
+
+  - Support visuel pour décisions stratégiques ou pédagogiques.  
+
+🔗 [Notebook Google Colab](https://colab.research.google.com/drive/19P6R4qRifVzecQ-yCRrEWfsYHwJ3iih_?usp=sharing)  
+
+---
+
+### ⚙️ Projet Data Engineering – Databricks Lakehouse
+
+#### 🎬 1. Projet TMDB Movie
+
+- **Situation** : Besoin de créer un pipeline de données automatisé et un dashboard analytique pour le secteur du cinéma.  
+
+- **Tâche** : Concevoir un pipeline complet (Bronze → Silver → Gold) et un dashboard interactif.  
+
+- **Action** :  
+
+  - Construction du pipeline via PySpark sur Databricks.  
+
+  - Création de fonctions réutilisables pour standardiser les transformations.  
+
+  - Développement d’un tableau de bord avec Databricks SQL.  
+
+- **Résultat** :  
+
+  - Pipeline automatisé assurant traitement complet des données.  
+
+  - Données nettoyées et structurées pour analyses fiables.  
+
+  - Dashboard interactif permettant visualisation des KPIs et support décisionnel.  
+
+🔗 [GitHub](https://github.com/Manu-RMT/databricks-movies-analytics)
+ 
