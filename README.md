@@ -41,18 +41,18 @@ Mon approche combine :
 
 📘 **Sommaire**
 
-- [✨ Expertise et Stack Technique ✨](#✨-expertise-et-stack-technique)
+- [✨ Expertise et Stack Technique ✨](#%EF%B8%8F-expertise-et-stack-technique)
 - [✨ Compétences Douces (Soft Skills) ✨](#-compétences-douces-soft-skills)
-- [✨ Projets Vedettes ✨](#✨-projets-vedettes)
+- [✨ Projets Vedettes Méthode Star ✨](#-projets-vedettes--méthode-star)
   - [Projet BI](#🧠-projet-bi)
-    - 🚗 [ShopEasyCar – BI appliquée à l’e-commerce automobile](#🚗-1-shopeasycar--bi-appliquée-à-l’e-commerce-automobile)
-    - 🛒 [Hypermarché – BI appliquée à la grande distribution](#🛒-2-hypermarché--bi-appliquée-à-la-grande-distribution)
-    - 👥 [Projet RH – Analyse des données du personnel](#👥-3-projet-rh--analyse-des-données-du-personnel)
-  - [Projet Data Science – Analyse exploratoire et visualisation](#🧠-projet-data-science)
-    - ✈️ [Analyse exploratoire des vols de compagnies aériennes](#✈️-analyse-exploratoire-des-vols-de-compagnies-aériennes)
-    - 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](#📈-analyse-des-actions-de-leaders-de-lia-openai-meta-google)
-  - [Projet Data Platform – Databricks : Pipelines & Dashboards](#⚙️-projet-data-engineering--databricks-lakehouse)
-    - 🎬 [Projet TMDB Movie](#🎬-1-projet-tmdb-movie)
+    - 🚗 [ShopEasyCar – BI appliquée à l’e-commerce automobile](#-1-shopeasycar--bi-appliquée-à-le-commerce-automobile)
+    - 🛒 [Hypermarché – BI appliquée à la grande distribution](#-2-hypermarché--bi-appliquée-à-la-grande-distribution)
+    - 👥 [Projet RH – Analyse des données du personnel](#-3-projet-rh--analyse-des-données-du-personnel)
+  - [Projet Data Science – Analyse exploratoire et visualisation](#-projet-data-science)
+    - ✈️ [Analyse exploratoire des vols de compagnies aériennes](#%EF%B8%8F-analyse-exploratoire-des-vols-de-compagnies-aériennes)
+    - 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](#-analyse-des-actions-de-leaders-de-lia-openai-meta-google)
+  - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--databricks-lakehouse)
+    - 🎬 [Projet TMDB Movie](#-1-projet-tmdb-movie)
  
 ---
 
