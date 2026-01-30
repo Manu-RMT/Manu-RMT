@@ -245,4 +245,9 @@ Mon approche combine :
   - Dashboard interactif permettant visualisation des KPIs et support décisionnel.  
 
 🔗 [GitHub](https://github.com/Manu-RMT/databricks-movies-analytics)
- 
+
+<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/91476ba7-a83f-41da-91b5-425de400ecf5" />
+
+
+ <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/9076cddf-a476-4b25-a19f-430efa117f1c" />
+
