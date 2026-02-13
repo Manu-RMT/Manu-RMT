@@ -53,6 +53,7 @@ Mon approche combine :
     - 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](#-analyse-des-actions-de-leaders-de-lia-openai-meta-google)
   - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--databricks-lakehouse)
     - 🎬 [Projet TMDB Movie](#-1-projet-tmdb-movie)
+    - 🛒 [Projet Ecommerce](#-2-projet-ecommerce-analytics) 
  
 ---
 
@@ -250,4 +251,35 @@ Mon approche combine :
 
 
  <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/9076cddf-a476-4b25-a19f-430efa117f1c" />
+
+
+---
+
+
+#### 🛒 2. Projet E‑Commerce Analytics
+- **Situation** : Besoin de construire un pipeline de données complet et industrialisé pour analyser l’activité d’un site e‑commerce (produits, clients, commandes, ventes).
+
+- **Tâche** : Mettre en place une architecture Lakehouse (Bronze → Silver → Gold), modéliser les données en étoile et produire un dashboard analytique dans Databricks.
+
+- **Action** :
+  - Développement d’un pipeline **end‑to‑end** sur Databricks (PySpark + Delta Lake).
+    
+  - Création de modules réutilisables (`config.py`, `utils.py`) pour standardiser ingestion, nettoyage et transformations.
+    
+  - Construction des zones Bronze, Silver et Gold avec gestion de la qualité, normalisation et traçabilité.
+    
+  - Modélisation **dimensionnelle** : tables de dimensions + table de faits.
+    
+  - Création d’un **dashboard Databricks SQL** basé sur les tables Gold (KPI, analyses produits, clients, ventes).
+
+- **Résultat** :
+  - Pipeline robuste, automatisé et structuré selon les bonnes pratiques Lakehouse.
+    
+  - Données nettoyées, normalisées et modélisées pour analyses fiables.
+    
+  - Dashboard interactif permettant d’explorer les ventes, les comportements clients et les performances produits.
+    
+  - Projet entièrement industrialisé, prêt pour la BI et l’exploitation métier.
+
+🔗 [GitHub](https://github.com/Manu-RMT/databricks-ecommerce)
 
