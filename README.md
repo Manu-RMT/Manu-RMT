@@ -283,6 +283,14 @@ Mon approche combine :
 
 🔗 [GitHub](https://github.com/Manu-RMT/databricks-ecommerce)
 
-<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/fe470c7d-c0ae-496b-b7ca-8005b9a1855d" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/fe470c7d-c0ae-496b-b7ca-8005b9a1855d" />
+
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/1110392e-c743-4145-bce7-e5405f6db35f" />
+
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/573559a0-bd32-4409-84c8-1c9e366958c9" />
+
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/1af70399-b010-437b-a965-4f514cc73b92" />
+
+
 
 
