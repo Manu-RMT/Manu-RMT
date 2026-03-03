@@ -53,7 +53,8 @@ Mon approche combine :
     - 📈 [Analyse des actions de leaders de l’IA (OpenAI, Meta, Google)](#-analyse-des-actions-de-leaders-de-lia-openai-meta-google)
   - [Projet Data Platform – Databricks : Pipelines & Dashboards](#%EF%B8%8F-projet-data-engineering--databricks-lakehouse)
     - 🎬 [Projet TMDB Movie](#-1-projet-tmdb-movie)
-    - 🛒 [Projet Ecommerce](#-2-projet-ecommerce-analytics) 
+    - 🛒 [Projet Ecommerce](#-2-projet-ecommerce-analytics)
+    - ✈️ [Projet Flights](#%EF%B8%8F-3-projet-flights-lakehouse-analytics)    
  
 ---
 
@@ -293,4 +294,92 @@ Mon approche combine :
 
 
 
+---
+
+
+#### ✈️ 3. Projet Flights Lakehouse Analytics  
+
+- **Situation** :  
+
+Besoin de construire un pipeline de données complet et industrialisé pour analyser des données aériennes (réservations, clients, vols, aéroports) dans une architecture moderne Lakehouse sur Databricks.
+
+- **Tâche** :  
+
+Mettre en place une architecture Médaillon (Bronze → Silver → Gold), gérer l’ingestion incrémentale, appliquer des règles de qualité, modéliser les données en schéma en étoile et préparer les données pour l’analyse BI.
+
+- **Action** :  
+
+  - Développement d’un pipeline **end-to-end** sur Databricks (PySpark + Delta Lake).  
+
+  - Implémentation d’un **JOB Bronze** pour l’ingestion incrémentale des fichiers CSV vers Parquet avec logs et traçabilité.  
+
+  - Mise en place d’un pipeline **Delta Live Tables (DLT)** pour alimenter la couche Silver avec gestion du CDC et contrôles qualité (expectations).  
+
+  - Création de modules réutilisables (`config.py`, `utils.py`) pour standardiser ingestion, transformations et gestion des chemins.  
+
+  - Construction des zones **Bronze, Silver et Gold** avec séparation claire des responsabilités.  
+
+  - Modélisation **dimensionnelle** en couche Gold :  
+
+      - Tables de dimensions (Customers, Airports, Flights)  
+
+      - Table de faits (Bookings)  
+
+  - Implémentation d’une logique incrémentale avec gestion des clés techniques et optimisation des jointures.  
+
+  - Organisation du projet en structure modulaire prête pour industrialisation et CI/CD.
+
+- **Résultat** :  
+
+  - Pipeline robuste, automatisé et structuré selon les bonnes pratiques **Lakehouse**.  
+
+  - Données historisées, nettoyées et normalisées pour analyses fiables.  
+
+  - Architecture scalable et performante grâce à Delta Lake et DLT.  
+
+  - Modèle décisionnel optimisé pour la BI (schéma en étoile).  
+
+  - Projet industrialisé démontrant des compétences avancées en **Data Engineering sur Databricks**.
+
+---
+
+### 🧠 Stack Technique
+
+- Databricks  
+
+- Apache Spark (PySpark)  
+
+- Delta Lake  
+
+- Delta Live Tables (DLT)  
+
+- SQL  
+
+- Architecture Médaillon  
+
+- Modélisation dimensionnelle  
+
+---
+
+### 🏗️ Architecture
+
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/2a514672-8cee-48cb-bd11-0cf47c37dc00" />
+
+---
+
+### 🎯 Compétences démontrées
+
+- Data Engineering avancé  
+
+- Conception d’architecture Lakehouse  
+
+- Ingestion incrémentale & CDC  
+
+- Data Modeling (Star Schema)  
+
+- Industrialisation de pipeline  
+
+- Bonnes pratiques Databricks
+ 
+🔗 [GitHub](https://github.com/Manu-RMT/databricks_flights)
 
