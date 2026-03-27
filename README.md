@@ -67,7 +67,30 @@ Databricks • PySpark • Delta Lake • Delta Live Tables • SQL
 
 ---
 
-## 🥈 🛒 E-Commerce Lakehouse Analytics
+## 🥈 🏦 Bank Customer & Transactions Lakehouse  
+Pipeline complet de données bancaires avec Delta Live Tables, qualité, SCD et dashboard analytique.
+
+### 🧱 Architecture  
+- **Landing → Bronze** : ingestion incrémentale, nettoyage, Expectations, quarantaine  
+- **Silver** : normalisation, SCD1 (customers), SCD2 (transactions), enrichissements  
+- **Gold** : vues analytiques, agrégations clients/comptes/transactions
+
+### 🔎 Points clés  
+✔️ Pipeline DLT 100% automatisé  
+✔️ Data Quality avec Expectations + Quarantine  
+✔️ Historisation SCD1 & SCD2  
+✔️ Tables Gold prêtes BI  
+✔️ Dashboard bancaire complet (KPIs, segmentation, risques)
+
+🔗 GitHub : https://github.com/Manu-RMT/databricks_bank
+
+<img width="850" height="450" alt="Capture d&#39;écran 2026-03-27 144753" src="https://github.com/user-attachments/assets/9c9e0ca7-2607-4f11-831e-0fdcf16259ff" />
+
+<img width="850" height="450" alt="Capture d&#39;écran 2026-03-27 150046" src="https://github.com/user-attachments/assets/0d7b7293-333b-4ebf-a5d5-df564901a4bc" />
+
+---
+
+## 🥉 🛒 E-Commerce Lakehouse Analytics
 
 Pipeline end-to-end pour analyse ventes & clients.
 
@@ -98,7 +121,7 @@ Pipeline end-to-end pour analyse ventes & clients.
 
 ---
 
-## 🥉 🎬 TMDB Movie Analytics
+## 🎬 TMDB Movie Analytics
 
 Pipeline PySpark + Dashboard SQL.
 
