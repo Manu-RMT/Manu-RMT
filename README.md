@@ -270,7 +270,8 @@ Trois tableaux de bord complets : préparation des données, modèle de données
 ---
 
 ## 👥 Ressources humaines : suivi RH
-<img width="600" height="375" alt="accueil_pbi_rh" src="https://github.com/user-attachments/assets/f5916b8b-4b21-45db-a0c1-529a49b3349d" />
+<img width="600" height="375" alt="image" src="https://github.com/user-attachments/assets/3c0820e5-9ab7-453f-ac8a-0f851fd00143" />
+
 
 🔗 [Voir le code sur GitHub](https://github.com/Manu-RMT/RH_Power_BI)
 
