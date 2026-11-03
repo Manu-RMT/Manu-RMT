@@ -255,10 +255,12 @@ Au quotidien, je suis responsable du bon fonctionnement d'environ **100 flux de 
 
 Trois tableaux de bord complets : préparation des données, modèle de données, indicateurs (**DAX**) et mise en forme pour les équipes métier.
 
-## 🚗 ShopEasyCar : ventes automobiles
-<img width="600" height="375" src="https://github.com/user-attachments/assets/77c0af58-8c89-4e3b-beaa-19ef66412934" />
+## 🚗 Suivi de projet 
 
-🔗 [Voir le code sur GitHub](https://github.com/Manu-RMT/ShopEasyCar_Power_BI_-_Python)
+<img width="600" height="375" alt="Capture d&#39;écran 2026-11-03 213958" src="https://github.com/user-attachments/assets/d2465fd2-52c5-4564-a86b-4ab31f25030a" />
+
+
+🔗 [Voir le code sur GitHub](https://github.com/Manu-RMT/01_PBI_Gestion_Projet.git)
 
 ---
 
