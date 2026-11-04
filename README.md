@@ -146,7 +146,7 @@ De la préparation des données au modèle, aux indicateurs **DAX** et à la mis
 
 | | | |
 | :---: | :---: | :---: |
-| <img width="300" src="https://github.com/user-attachments/assets/d2465fd2-52c5-4564-a86b-4ab31f25030a" alt="Rapport Suivi de projet" /> | <img width="300" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" alt="Rapport Hypermarché" /> | <img width="300" src="https://github.com/user-attachments/assets/3c0820e5-9ab7-453f-ac8a-0f851fd00143" alt="Rapport RH" /> |
+| <img width="300" alt="Rapport Suivi de projet" src="https://github.com/user-attachments/assets/ed13e4ab-f834-4391-8115-521b2f7bf659" /> | <img width="300" src="https://github.com/user-attachments/assets/3babb931-53d3-4817-9512-a68d3e406c80" alt="Rapport Hypermarché" /> | <img width="300" src="https://github.com/user-attachments/assets/3c0820e5-9ab7-453f-ac8a-0f851fd00143" alt="Rapport RH" /> |
 
 ---
 
